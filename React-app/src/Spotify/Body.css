@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: SpotifyMixUI, CircularSp, Helvetica, Arial, sans-serif;
+}
+
+#section{
+    /* border: 2px solid; */
+    height: 70vh;
+    background: #96F0B6;  
+}
+
+#section h1{
+    color: #000;
+    font-size: 40px;
+    position: absolute;
+    top: 150px;
+    left: 420px;
+}
+
+#section .p{
+    color: #000;
+    position: absolute;
+    top: 240px;
+    left: 550px;
+    font-size: 25px;
+}
+
+#section button{
+    position: absolute;
+    top: 330px;
+    left: 670px;
+    font-size: 16px;
+    border-radius: 30px;
+    padding: 12px 20px;
+    background: #000;
+    color: #fff;
+    font-weight: 600;
+    border: none;
+}
+
+#section button:hover{
+    cursor: pointer;
+}
+
+#section p{
+    position: absolute;
+    top: 430px;
+    left: 450px;
+    font-size: 12px;
+    color: #000;
+    font-weight: 400;
+}
+
+#section #p{
+    position: absolute;
+    top: 450px;
+    left: 500px;
+    font-size: 12px;
+    color: #000;
+    font-weight: 400;
+}
+
+#section #p b{
+    text-decoration: underline;
+    font-size: 12px;
+    font-weight: 400;
+    color: #000;
+} 

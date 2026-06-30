@@ -1,0 +1,475 @@
+footer{
+    /* border: 2px solid; */
+    height: 90vh;
+    position: absolute;
+    top: 2210px;
+    background: #000;
+    font-family: SpotifyMixUI, CircularSp, Helvetica, Arial, sans-serif;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer svg{
+    height: 55px;
+    width: 110px;
+    position: absolute;
+    bottom: 510px;
+    left: 200px;
+    fill: #fff;
+    cursor: pointer;
+}
+
+footer #ul1{
+    padding: 0 15px;
+    flex: 1;
+    display: block;
+}
+
+footer #ul1 h2{
+    color: #919496;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-transform: uppercase;
+    position: absolute;
+    left: 450px;
+    top: 90px;
+}
+
+footer #ul1 .li4{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 450px;
+    top: 150px;
+}
+footer #ul1 .li4:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+footer #ul1 .li5{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 450px;
+    top: 190px;
+}
+footer #ul1 .li5:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+footer #ul1 .li6{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 450px;
+    top: 240px;
+}
+
+footer #ul1 .li6:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+footer #ul2{
+    padding: 0 15px;
+    flex: 1;
+    display: block;
+}
+
+footer #ul2 #h2{
+    color: #919496;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-transform: uppercase;
+    position: absolute;
+    left: 600px;
+    top: 90px;
+}
+
+footer #ul2 .li7{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 600px;
+    top: 150px;
+}
+footer #ul2 .li7:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+footer #ul2 .li8{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 600px;
+    top: 190px;
+}
+footer #ul2 .li8:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+footer #ul2 .li9{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 600px;
+    top: 240px;
+}
+footer #ul2 .li9:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+footer #ul2 .li10{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 605px;
+    top: 290px;
+}
+footer #ul2 .li10:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+footer #ul2 .li11{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 605px;
+    top: 340px;
+}
+footer #ul2 .li11:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+footer #ul3{
+    padding: 0 15px;
+    flex: 1;
+    display: block;
+}
+
+footer #ul3 #h3{
+    color: #919496;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-transform: uppercase;
+    position: absolute;
+    left: 790px;
+    top: 90px;
+}
+
+footer #ul3 .li12{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 790px;
+    top: 150px;
+}
+footer #ul3 .li12:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+footer #ul3 .li13{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 790px;
+    top: 190px;
+}
+footer #ul3 .li13:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+footer #ul3 .li14{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 790px;
+    bottom: 390px;
+}
+footer #ul3 .li14:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+footer #ul3 .li15{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 790px;
+    top: 290px;
+}
+footer #ul3 .li15:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+footer #ul3 .li15 b{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+}
+footer #ul3 b:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+footer #ul4{
+    padding: 0 15px;
+    flex: 1;
+    display: block;
+}
+
+footer #ul4 #h4{
+    color: #919496;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-transform: uppercase;
+    position: absolute;
+    left: 990px;
+    top: 90px;
+}
+
+footer #ul4 .li16{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 990px;
+    top: 150px;
+}
+footer #ul4 .li16:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+footer #ul4 .li16 b{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+}
+footer #ul4 .li16 b:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+
+footer #ul4 .li17{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 990px;
+    top: 230px;
+}
+footer #ul4 .li17:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+footer #ul4 .li17 b{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+}
+footer #ul4 b:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+
+footer #ul4 .li18{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 990px;
+    bottom: 320px;
+}
+footer #ul4 .li18:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+footer #ul4 .li18 b{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+}
+footer #ul4 b:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+
+footer #ul4 .li19{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    color:#fff;
+    position: absolute;
+    left: 990px;
+    top: 380px;
+}
+footer #ul4 .li19:hover{
+    cursor: pointer;
+    color: rgb(78, 221, 78);
+}
+
+footer #section4 .demo1{
+    position: relative;
+    left: 1200px;
+    top: 90px; 
+    height: 40px;
+    width: 40px;
+}
+
+footer #section4 .demo2{
+    position: relative;
+    left: 1250px;
+    top: 95px; 
+    height: 40px;
+    width: 40px;
+}
+
+footer #section4 .demo3{
+    position: relative;
+    left: 1300px;
+    top: 90px; 
+    height: 40px;
+    width: 40px;
+}
+
+.nav1{
+    /* border: 2px solid; */
+    height: 70px;
+    position: relative;
+    top: 400px; 
+}
+
+.sub-nav1{
+    /* border: 2px solid brown; */
+    height: inherit;
+    width: 95%;
+    margin: auto;
+}
+
+.sub-nav1 ol{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-top: 90px;
+    font-weight: 600;
+    font-size: 12px;
+    color: #919496;
+    cursor: pointer;
+     gap: 40px;
+}
+
+
+.sub-nav1 ol li:hover{
+    color: rgb(78, 221, 78);
+}
